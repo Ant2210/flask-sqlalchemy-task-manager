@@ -1,5 +1,10 @@
 {
     "cSpell.words": [
         "taskmanager"
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none",
+    "python.analysis.typeCheckingMode": "off"
 }
